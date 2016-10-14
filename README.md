@@ -28,6 +28,7 @@ go run src/main.go
 ```
 
 ## Support version
+  - Go 1.5 (run with `GO15VENDOREXPERIMENT=1 go run src/main.go`)
   - Go 1.6
   - Go 1.7
 
