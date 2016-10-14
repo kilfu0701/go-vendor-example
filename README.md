@@ -31,7 +31,7 @@ go run src/main.go
   - Go 1.6
   - Go 1.7
 
-## Contruibutors
+## Contributors
 kilfu0701 (kilfu0701@gmail.com)
 
 ## License
