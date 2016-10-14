@@ -1,7 +1,7 @@
 # go-vendor-example
 An example that using "govendor" into your project.
 
-### How to use
+## How to use
   Step 1: Clone repo and setup GOPATH.
 ```
 git clone https://github.com/kilfu0701/go-vendor-example.git
@@ -27,12 +27,12 @@ cd $GOPATH
 go run src/main.go
 ```
 
-### Support version
+## Support version
   - Go 1.6
   - Go 1.7
 
-### Contruibutors
+## Contruibutors
 kilfu0701 (kilfu0701@gmail.com)
 
-### License
+## License
 MIT
