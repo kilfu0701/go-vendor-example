@@ -22,3 +22,10 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+# govendor cache
+.cache
+
+# ignore vendor packages
+src/app/vendor/*
+!src/app/vendor/vendor.json
