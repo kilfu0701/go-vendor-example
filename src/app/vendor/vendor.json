@@ -21,6 +21,12 @@
 			"revisionTime": "2016-10-13T20:31:40Z"
 		},
 		{
+			"checksumSHA1": "LW6AaspQoMJfHGdzevCARW/luG4=",
+			"path": "github.com/labstack/echo/engine/standard",
+			"revision": "a88c4399d4423daa17158e33f23329b330ca2727",
+			"revisionTime": "2016-10-13T20:31:40Z"
+		},
+		{
 			"checksumSHA1": "iDCjk9XfJyeiobpsw3E1UXXde/0=",
 			"path": "github.com/labstack/echo/log",
 			"revision": "a88c4399d4423daa17158e33f23329b330ca2727",
