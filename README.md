@@ -13,8 +13,7 @@ export PATH=$GOPATH/bin:$PATH
   Setp 2: Install `govender`
 ```
 go get -u github.com/kardianos/govendor
-# after install govender, remove "src/github.com" & "src/golang.org"
-rm -rf src/github.com src/golang.org
+rm -rf src/github.com src/golang.org     # after install govender, remove "src/github.com" & "src/golang.org"
 ```
 
   Step 3: Download vendor packages
